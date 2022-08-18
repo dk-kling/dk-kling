@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/B.S. Computer Engineering (2016~2022) - CNU-001c54?style=for-the-badge"/>  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dk-kling&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dk-kling&show_icons=true&theme=tokyonight)
 
 <!--
 **dk-kling/dk-kling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
