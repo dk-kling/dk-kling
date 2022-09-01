@@ -2,6 +2,8 @@
 
 🚗 Software Testing and Analysis for Autonomous Driving System  
 
+<img src="https://img.shields.io/badge/ STAR LAB Graduate Student @ UNIST-EADBC6?style=for-the-badge"/>  
+
 <img src="https://img.shields.io/badge/ Hyundai R&D Scholarship Student-002C5F?style=for-the-badge&logo=Hyundai&logoColor=white"/>  
 
 ### 📚 Education  
