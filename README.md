@@ -25,6 +25,11 @@
 </a>
 <br>
 <br>
+
 <a href="https://lake-blade-22f.notion.site/Seong-deok-Seo-1a061cd8d6af4cb4a3fa33a066f69a04">
   Curriculum Vitae
+</a>
+|
+<a href="https://www.linkedin.com/in/seong-deok-seo/">
+  LinkedIn
 </a>
