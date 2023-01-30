@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=023059&height=300&section=header&text=Seong-deok&fontColor=FFFF&fontSize=90)
 
-### 🚘 Software Testing and Analysis for Autonomous Driving System
+### 🚗 Interest
+
+#### Software Testing and Analysis for Autonomous Driving System
+
+### 📚 Works
 
 <a href="https://mijungk.github.io/starlab/">
 <img src="https://img.shields.io/badge/ STAR LAB Graduate Student @ UNIST-EADBC6?style=for-the-badge"/>  
@@ -18,4 +22,9 @@
 <br>
 <a href="https://computer.cnu.ac.kr/computer/en/about.do">
 <img src="https://img.shields.io/badge/B.S. Computer Engineering (2016~2022) - CNU-001c54?style=for-the-badge"/>  
+</a>
+<br>
+<br>
+<a href="https://lake-blade-22f.notion.site/Seong-deok-Seo-1a061cd8d6af4cb4a3fa33a066f69a04">
+  Curriculum Vitae
 </a>
