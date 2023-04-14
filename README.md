@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=023059&height=300&section=header&text=Seong-deok&fontColor=FFFF&fontSize=90)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=13678A8&width=500&lines=Seongdeok+Seo;Student+in+Software+Engineering;Autonomous+Driving+Software)](https://git.io/typing-svg)
 
 ### 🚗 Interest
 
