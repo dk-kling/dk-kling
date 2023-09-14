@@ -4,7 +4,7 @@
 
 #### Software Testing and Analysis for Vehicle Control System
 
-### 📚 Works
+### 📚 Work
 
 <a href="https://mijungk.github.io/starlab/">
 <img src="https://img.shields.io/badge/ STAR LAB Graduate Student @ UNIST-EADBC6?style=for-the-badge"/>  
