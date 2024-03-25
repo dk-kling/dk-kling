@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=13678A8&width=500&lines=Seongdeok+Seo;Student+in+Software+Engineering;Autonomous+Driving+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=13678A8&width=500&lines=Seongdeok+Seo;Research+Engineer;Software+Testing;Vehicle+Control+System)](https://git.io/typing-svg)
 
 ### 🚗 Interest
 
@@ -6,12 +6,19 @@
 
 ### 📚 Work
 
-<a href="https://mijungk.github.io/starlab/">
-<img src="https://img.shields.io/badge/ STAR LAB Graduate Student @ UNIST-EADBC6?style=for-the-badge"/>  
+
+<a href="https://www.hyundai.com/">
+  <img src="https://img.shields.io/badge/ Research Engineer @ Hyundai Motor Co. (2024~)-002C5F?style=for-the-badge&logo=Hyundai&logoColor=white"/>  
 </a>
+
 <br>
 <a href="https://hmg-scholar.recruiter.co.kr/appsite/company/callSubPage?code1=4000&code2=4100">
-<img src="https://img.shields.io/badge/ Hyundai R&D Scholarship Student-002C5F?style=for-the-badge&logo=Hyundai&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/ R&D Scholarship Student @ Hyundai Motor Co. (2022~2024)-002C5F?style=for-the-badge&logo=Hyundai&logoColor=white"/>  
+</a>
+
+<br>
+<a href="https://mijungk.github.io/starlab/">
+  <img src="https://img.shields.io/badge/ STAR LAB Graduate Student @ UNIST (2022~2024)-EADBC6?style=for-the-badge"/>
 </a>
 
 ### 🏫 Education  
