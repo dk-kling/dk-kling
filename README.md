@@ -12,7 +12,8 @@
 </a>
 
 <br>
-<a href="https://hmg-scholar.recruiter.co.kr/appsite/company/callSubPage?code1=4000&code2=4100">
+
+<a href="https://hmg-scholar.recruiter.co.kr/appsite/company/callSubPage?code1=3000&code2=3200">
   <img src="https://img.shields.io/badge/ R&D Scholarship Student @ Hyundai Motor Co. (2022~2024)-002C5F?style=for-the-badge&logo=Hyundai&logoColor=white"/>  
 </a>
 
